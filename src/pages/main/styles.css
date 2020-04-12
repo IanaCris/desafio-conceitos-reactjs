@@ -1,0 +1,35 @@
+.repositories-list {
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+
+.repositories-list article {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.repositories-list h4 {
+  display: flex;
+  align-items: center;
+}
+
+.repositories-list article button {
+  margin: 0 15px;
+  background: #ca4949;
+  border-radius: 15px;
+}
+
+button {
+  background: #7159c1;
+  color: #fff;
+  border: 0;
+  padding: 10px 15px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 14px;
+}
